@@ -1,0 +1,144 @@
+.profile-picture {
+  width: 550px;
+  border-color: rgb(204, 203, 203);
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 2px;
+  margin-top: 10px;
+  margin-bottom: 15px;
+  
+}
+
+.kylian-pic {
+  width: 100%;
+  border-radius: 30px;
+  cursor: pointer;
+
+}
+
+.verified {
+  height: 14px;
+}
+
+.kylian-para {
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.spankylian {
+  color: rgb(151, 150, 150);
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 50px 1fr;
+}
+
+.span2 {
+  margin-left: 300px;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.flex {
+  display: grid;
+  grid-template-columns: 50px 50px 428px 1fr;
+  width: 120px;
+}
+
+.flex img {
+  height: 22px;
+  cursor: pointer;
+}
+
+.save.icon {
+  margin-left: 400px;
+}
+
+.slim {
+  color: rgba(63, 63, 63, 0.842);
+  font-weight: bold;
+  font-size: 10px;
+}
+
+.user-icon {
+  height: 20px;
+  border-radius: 20px;
+  margin-left: -15px;
+}
+
+.beast-icon {
+  height: 20px;
+  border-radius: 20px;
+}
+
+.ten-pots-icon {
+  height: 20px;
+  border-radius: 20px;
+  margin-left: -13px;
+}
+
+.comment-pic {
+  display: grid;
+  grid-template-columns: 25px 10px 50px 1fr;
+  margin-top: 15px;
+  cursor: pointer;
+}
+
+.likes-section {
+  margin-left: -30px;
+  font-weight: bold;
+  font-size: 13px;
+}
+
+.more-span {
+  color: rgb(92, 91, 91);
+  font-size: 15px;
+  line-height: 20px;
+  cursor: pointer;
+}
+
+.stats {
+  color: rgb(92, 91, 91);
+  font-size: 15px;
+  line-height: 14px;
+  cursor: pointer;
+}
+
+.smiley {
+  height: 20px;
+  cursor: pointer;
+}
+
+.add-comment {
+  display: grid;
+  grid-template-columns: 530px 500px;
+  font-size: 14px;
+  color: rgb(92, 91, 91);
+}
+
+.add-comments {
+  display: grid;
+  grid-template-columns: 530px 500px;
+  font-size: 14px;
+  color: rgb(92, 91, 91);
+}
+
+.cr7 {
+  font-size: 15px;
+  font-weight: bold;
+  color: black;
+}
+
+.cr7:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.grid-section {
+  border-bottom: 1px;
+  border-bottom-color: rgba(214, 214, 214, 0.822);
+  border-bottom-style: solid;
+  width: 550px;
+  margin-top: 15px;
+}

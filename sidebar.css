@@ -1,0 +1,35 @@
+.sidebar {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  top: 55px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  z-index: 200;
+  padding-top: 5px;
+  width: 150px;
+  cursor: pointer;
+  border-right-width: 2px; 
+  border-right-style: solid;
+  border-right-color: rgb(226, 220, 220); 
+  padding-right: 10px
+}
+
+.user-profile-icon {
+  border-radius: 20px;
+}
+
+.sidebar-link {
+}
+
+.sidebar-link:hover {
+  background-color: rgb(236, 230, 230);
+}
+
+.sidebar-link img {
+  height: 26px;
+  margin-bottom: 20px;
+}
